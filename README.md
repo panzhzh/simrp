@@ -13,7 +13,7 @@ CCM addresses the sentiment quad extraction task by retrieving syntactic similar
 <!-- [![Demo](https://img.shields.io/badge/Demo-Local-orange)](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs/tree/master?tab=readme-ov-file#-demo-video)  -->
 <!-- [![Paper](https://img.shields.io/badge/Paper-arxiv-yellow)](https://arxiv.org/abs/2405.11273) -->
 
-[Zhongquan Jian](https://scholar.google.com/citations?user=C1PWVBUAAAAJ&hl=zh-CN), Yanhao ChenJiajian Li, Xiangjian Zeng, [Junfeng Yao](https://scholar.google.com/citations?hl=zh-CN&user=Szz3hSMAAAAJ), [Xinyin An], [Qingqiang Wu](https://dblp.uni-trier.de/pid/130/0742.html)
+[Zhongquan Jian](https://scholar.google.com/citations?user=C1PWVBUAAAAJ&hl=zh-CN), Yanhao Chen, Jiajian Li, Shaopan Wang, Xiangjian Zeng, [Junfeng Yao](https://scholar.google.com/citations?hl=zh-CN&user=Szz3hSMAAAAJ), Xinyin An, [Qingqiang Wu](https://dblp.uni-trier.de/pid/130/0742.html)
 </h4>
 
 <!-- ## 🌟 Structure
