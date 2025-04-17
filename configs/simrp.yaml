@@ -1,0 +1,23 @@
+model:
+  name: simrp  
+  framework:
+  arch: t5
+  scale: base
+  schedule: linear
+  optimize: AdamW
+  drop_rate: 0.1
+  use_adapter: false
+  ret_num: 1
+
+train:
+  epochs: 10
+  e_stop: 8
+  batch_size: 4
+  eval_rate: 1.0
+  lr: 0.0004
+  lr_plm: 0.0001
+  save_model: 0
+  inference: 0
+  do_test: true
+  show: false
+  wandb: false

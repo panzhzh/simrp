@@ -1,0 +1,3044 @@
+[
+    {
+        "index": 0,
+        "sentence": "I asked for a menu and the same waitress looked at my like I was insane .",
+        "aspect": "waitress",
+        "polarity": "negative"
+    },
+    {
+        "index": 1,
+        "sentence": "The owner truly caters to all your needs .",
+        "aspect": "owner",
+        "polarity": "positive"
+    },
+    {
+        "index": 2,
+        "sentence": "I 'm a friendly person , so I wouldn 't mind had she not been so nasty and gotten so personal .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 3,
+        "sentence": "A great place to meet up for some food and drinks ...",
+        "aspect": "place",
+        "polarity": "positive"
+    },
+    {
+        "index": 4,
+        "sentence": "Loved it",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 5,
+        "sentence": "The owner and staff are all Japanese as well and that adds to the entire ambiance .",
+        "aspect": "ambiance",
+        "polarity": "positive"
+    },
+    {
+        "index": 6,
+        "sentence": "The side dishes were passable , and I did get a refill upon request .",
+        "aspect": "side dishes",
+        "polarity": "neutral"
+    },
+    {
+        "index": 7,
+        "sentence": "The side dishes were passable , and I did get a refill upon request .",
+        "aspect": "side dishes",
+        "polarity": "positive"
+    },
+    {
+        "index": 8,
+        "sentence": "Great friendly service , Fast seating , Fast Delivery , Excellent sushi .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 9,
+        "sentence": "Great friendly service , Fast seating , Fast Delivery , Excellent sushi .",
+        "aspect": "seating",
+        "polarity": "positive"
+    },
+    {
+        "index": 10,
+        "sentence": "Great friendly service , Fast seating , Fast Delivery , Excellent sushi .",
+        "aspect": "Delivery",
+        "polarity": "positive"
+    },
+    {
+        "index": 11,
+        "sentence": "Great friendly service , Fast seating , Fast Delivery , Excellent sushi .",
+        "aspect": "sushi",
+        "polarity": "positive"
+    },
+    {
+        "index": 12,
+        "sentence": "I went there for lunch and it was not as good as I expected from the reviews I read .",
+        "aspect": "lunch",
+        "polarity": "negative"
+    },
+    {
+        "index": 13,
+        "sentence": "The stuff tilapia was horrid ... tasted like cardboard .",
+        "aspect": "stuff tilapia",
+        "polarity": "negative"
+    },
+    {
+        "index": 14,
+        "sentence": "I just do n't understand all the hype ...",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 15,
+        "sentence": "Subtle food and service",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 16,
+        "sentence": "Subtle food and service",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 17,
+        "sentence": "Service was wonderful ;",
+        "aspect": "Service",
+        "polarity": "positive"
+    },
+    {
+        "index": 18,
+        "sentence": "The food here does a great service to the name ( Cantonese that is ... ) .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 19,
+        "sentence": "None was made so i hung up .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 20,
+        "sentence": "This place is a great bargain .",
+        "aspect": "place",
+        "polarity": "positive"
+    },
+    {
+        "index": 21,
+        "sentence": "I will be going back and heartily recommend it !",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 22,
+        "sentence": "I will be going back and heartily recommend it !",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 23,
+        "sentence": "great hot dogs .",
+        "aspect": "hot dogs",
+        "polarity": "positive"
+    },
+    {
+        "index": 24,
+        "sentence": "The food was good too .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 25,
+        "sentence": "Winnie and her staff are the best crew you can find serving you .",
+        "aspect": "staff",
+        "polarity": "positive"
+    },
+    {
+        "index": 26,
+        "sentence": "Winnie and her staff are the best crew you can find serving you .",
+        "aspect": "Winnie",
+        "polarity": "positive"
+    },
+    {
+        "index": 27,
+        "sentence": "Service was prompt , friendly and great .",
+        "aspect": "Service",
+        "polarity": "positive"
+    },
+    {
+        "index": 28,
+        "sentence": "Service was prompt , friendly and great .",
+        "aspect": "Service",
+        "polarity": "positive"
+    },
+    {
+        "index": 29,
+        "sentence": "Service was prompt , friendly and great .",
+        "aspect": "Service",
+        "polarity": "positive"
+    },
+    {
+        "index": 30,
+        "sentence": "The ambience was so fun , and the prices were great , on top of the fact that the food was really tasty .",
+        "aspect": "ambience",
+        "polarity": "positive"
+    },
+    {
+        "index": 31,
+        "sentence": "The ambience was so fun , and the prices were great , on top of the fact that the food was really tasty .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 32,
+        "sentence": "The ambience was so fun , and the prices were great , on top of the fact that the food was really tasty .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 33,
+        "sentence": "the food is always fresh ...",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 34,
+        "sentence": "Excellent sashimi , and the millennium roll is beyond delicious .",
+        "aspect": "sashimi",
+        "polarity": "positive"
+    },
+    {
+        "index": 35,
+        "sentence": "Excellent sashimi , and the millennium roll is beyond delicious .",
+        "aspect": "millennium roll",
+        "polarity": "positive"
+    },
+    {
+        "index": 36,
+        "sentence": "Not a great place for family or general dining .",
+        "aspect": "place",
+        "polarity": "negative"
+    },
+    {
+        "index": 37,
+        "sentence": "The bagels always warm , soft on the inside , crispy on the outside and enormous in size .",
+        "aspect": "bagels",
+        "polarity": "positive"
+    },
+    {
+        "index": 38,
+        "sentence": "The bagels always warm , soft on the inside , crispy on the outside and enormous in size .",
+        "aspect": "bagels",
+        "polarity": "positive"
+    },
+    {
+        "index": 39,
+        "sentence": "The bagels always warm , soft on the inside , crispy on the outside and enormous in size .",
+        "aspect": "bagels",
+        "polarity": "positive"
+    },
+    {
+        "index": 40,
+        "sentence": "The bagels always warm , soft on the inside , crispy on the outside and enormous in size .",
+        "aspect": "bagels",
+        "polarity": "positive"
+    },
+    {
+        "index": 41,
+        "sentence": "So rude ! ! !",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 42,
+        "sentence": "This is a nice pizza place with good selection of thin crust pizza including the Basil slice .",
+        "aspect": "selection of thin crust pizza",
+        "polarity": "positive"
+    },
+    {
+        "index": 43,
+        "sentence": "This is a nice pizza place with good selection of thin crust pizza including the Basil slice .",
+        "aspect": "selection of thin crust pizza",
+        "polarity": "positive"
+    },
+    {
+        "index": 44,
+        "sentence": "This is a nice pizza place with good selection of thin crust pizza including the Basil slice .",
+        "aspect": "pizza place",
+        "polarity": "positive"
+    },
+    {
+        "index": 45,
+        "sentence": "This is a nice pizza place with good selection of thin crust pizza including the Basil slice .",
+        "aspect": "Basil slice",
+        "polarity": "positive"
+    },
+    {
+        "index": 46,
+        "sentence": "The food is very average , the Thai fusion stuff is a bit too sweet , every thing they serve is too sweet here .",
+        "aspect": "food",
+        "polarity": "negative"
+    },
+    {
+        "index": 47,
+        "sentence": "The food is very average , the Thai fusion stuff is a bit too sweet , every thing they serve is too sweet here .",
+        "aspect": "Thai fusion stuff",
+        "polarity": "negative"
+    },
+    {
+        "index": 48,
+        "sentence": "The food is very average , the Thai fusion stuff is a bit too sweet , every thing they serve is too sweet here .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 49,
+        "sentence": "Our waitress was n't mean , but not especially warm or attentive either .",
+        "aspect": "waitress",
+        "polarity": "neutral"
+    },
+    {
+        "index": 50,
+        "sentence": "The sauce tasted more like Chinese fast food than decent Korean .",
+        "aspect": "sauce",
+        "polarity": "negative"
+    },
+    {
+        "index": 51,
+        "sentence": "Mussles and calamari were superb Saturday evening .",
+        "aspect": "Mussles",
+        "polarity": "positive"
+    },
+    {
+        "index": 52,
+        "sentence": "Mussles and calamari were superb Saturday evening .",
+        "aspect": "calamari",
+        "polarity": "positive"
+    },
+    {
+        "index": 53,
+        "sentence": "The food is wonderful , tasty and filling , and the service is professional and friendly .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 54,
+        "sentence": "The food is wonderful , tasty and filling , and the service is professional and friendly .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 55,
+        "sentence": "The food is wonderful , tasty and filling , and the service is professional and friendly .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 56,
+        "sentence": "The food is wonderful , tasty and filling , and the service is professional and friendly .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 57,
+        "sentence": "The food is wonderful , tasty and filling , and the service is professional and friendly .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 58,
+        "sentence": "The service is awful .",
+        "aspect": "service",
+        "polarity": "negative"
+    },
+    {
+        "index": 59,
+        "sentence": "The fish was adequate , but inexpertly sliced .",
+        "aspect": "fish",
+        "polarity": "negative"
+    },
+    {
+        "index": 60,
+        "sentence": "The fish was adequate , but inexpertly sliced .",
+        "aspect": "fish",
+        "polarity": "negative"
+    },
+    {
+        "index": 61,
+        "sentence": "Bagels are ok , but be sure not to make any special requests !",
+        "aspect": "Bagels",
+        "polarity": "neutral"
+    },
+    {
+        "index": 62,
+        "sentence": "Bagels are ok , but be sure not to make any special requests !",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 63,
+        "sentence": "Good Food",
+        "aspect": "Food",
+        "polarity": "positive"
+    },
+    {
+        "index": 64,
+        "sentence": "The food was amazing , and the service was prompt and helpful , but not over-bearing or rushed .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 65,
+        "sentence": "The food was amazing , and the service was prompt and helpful , but not over-bearing or rushed .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 66,
+        "sentence": "The food was amazing , and the service was prompt and helpful , but not over-bearing or rushed .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 67,
+        "sentence": "The food was amazing , and the service was prompt and helpful , but not over-bearing or rushed .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 68,
+        "sentence": "Sauce was watery and the food did n't have much flavor .",
+        "aspect": "Sauce",
+        "polarity": "negative"
+    },
+    {
+        "index": 69,
+        "sentence": "Sauce was watery and the food did n't have much flavor .",
+        "aspect": "food",
+        "polarity": "negative"
+    },
+    {
+        "index": 70,
+        "sentence": "I was n't here for the pizza so I can 't comment on that yet but what I had was very good .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 71,
+        "sentence": "We were less than impressed .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 72,
+        "sentence": "The have a great cocktail with Citrus Vodka and lemon and lime juice and mint leaves that is to die for !",
+        "aspect": "cocktail with Citrus Vodka and lemon and lime juice and mint leaves",
+        "polarity": "positive"
+    },
+    {
+        "index": 73,
+        "sentence": "The food was average or above including some surprising tasty dishes .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 74,
+        "sentence": "The food was average or above including some surprising tasty dishes .",
+        "aspect": "dishes",
+        "polarity": "positive"
+    },
+    {
+        "index": 75,
+        "sentence": "sometimes i get bad food and bad service , sometimes i get good good and bad service .",
+        "aspect": "food",
+        "polarity": "negative"
+    },
+    {
+        "index": 76,
+        "sentence": "sometimes i get bad food and bad service , sometimes i get good good and bad service .",
+        "aspect": "service",
+        "polarity": "negative"
+    },
+    {
+        "index": 77,
+        "sentence": "sometimes i get bad food and bad service , sometimes i get good good and bad service .",
+        "aspect": "service",
+        "polarity": "negative"
+    },
+    {
+        "index": 78,
+        "sentence": "sometimes i get bad food and bad service , sometimes i get good good and bad service .",
+        "aspect": "good",
+        "polarity": "positive"
+    },
+    {
+        "index": 79,
+        "sentence": "Best drumsticks over rice and sour spicy soup in town !",
+        "aspect": "drumsticks over rice",
+        "polarity": "positive"
+    },
+    {
+        "index": 80,
+        "sentence": "Best drumsticks over rice and sour spicy soup in town !",
+        "aspect": "sour spicy soup",
+        "polarity": "positive"
+    },
+    {
+        "index": 81,
+        "sentence": "The workers there also absolutely load the bagel with cream cheese ( gets a little messy ) .",
+        "aspect": "bagel",
+        "polarity": "negative"
+    },
+    {
+        "index": 82,
+        "sentence": "A few tips : skip the turnip cake , roast pork buns and egg custards .",
+        "aspect": "turnip cake",
+        "polarity": "negative"
+    },
+    {
+        "index": 83,
+        "sentence": "A few tips : skip the turnip cake , roast pork buns and egg custards .",
+        "aspect": "roast pork buns",
+        "polarity": "negative"
+    },
+    {
+        "index": 84,
+        "sentence": "A few tips : skip the turnip cake , roast pork buns and egg custards .",
+        "aspect": "egg custards",
+        "polarity": "negative"
+    },
+    {
+        "index": 85,
+        "sentence": "Best In ALL of NYC",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 86,
+        "sentence": "Not worth it .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 87,
+        "sentence": "Vanison was good but not amazing .",
+        "aspect": "Vanison",
+        "polarity": "neutral"
+    },
+    {
+        "index": 88,
+        "sentence": "At first we were a little taken aback , as this seemed to present a problem , although the restaurant looked fairly empty , but they hastily put the table together for us .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 89,
+        "sentence": "But for the Shabu Shabu , you won 't find much better in NY .",
+        "aspect": "Shabu Shabu",
+        "polarity": "positive"
+    },
+    {
+        "index": 90,
+        "sentence": "The Cypriot restaurant has a lot going for it .",
+        "aspect": "Cypriot restaurant",
+        "polarity": "positive"
+    },
+    {
+        "index": 91,
+        "sentence": "I have worked in restaurants and cook a lot , and there is no way a maggot should be able to get into well prepared food .",
+        "aspect": "food",
+        "polarity": "negative"
+    },
+    {
+        "index": 92,
+        "sentence": "I 've been to at Cafe Spice probably 5-8 times , it is probably still the best Indian restaurant around Union Square .",
+        "aspect": "Cafe Spice",
+        "polarity": "positive"
+    },
+    {
+        "index": 93,
+        "sentence": "There 's nice and quiet , small but enough for 6 ( or more ) .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 94,
+        "sentence": "There 's nice and quiet , small but enough for 6 ( or more ) .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 95,
+        "sentence": "I really loved the different and inovated touch that 's the cheff gives to the food .",
+        "aspect": "cheff",
+        "polarity": "positive"
+    },
+    {
+        "index": 96,
+        "sentence": "I really loved the different and inovated touch that 's the cheff gives to the food .",
+        "aspect": "cheff",
+        "polarity": "positive"
+    },
+    {
+        "index": 97,
+        "sentence": "The food is good , I ca n't lie .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 98,
+        "sentence": "Service , however , was excellent ... and I liked the setting/atmosphere a lot .",
+        "aspect": "Service",
+        "polarity": "positive"
+    },
+    {
+        "index": 99,
+        "sentence": "Service , however , was excellent ... and I liked the setting/atmosphere a lot .",
+        "aspect": "setting/atmosphere",
+        "polarity": "positive"
+    },
+    {
+        "index": 100,
+        "sentence": "Food is usually very good , though ocasionally I wondered about freshmess of raw vegatables in side orders .",
+        "aspect": "Food",
+        "polarity": "positive"
+    },
+    {
+        "index": 101,
+        "sentence": "Food is usually very good , though ocasionally I wondered about freshmess of raw vegatables in side orders .",
+        "aspect": "raw vegatables in side orders",
+        "polarity": "negative"
+    },
+    {
+        "index": 102,
+        "sentence": "I recommend it !",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 103,
+        "sentence": "My party had the BBE $ 29 fixe prix menu , which was such a wonderful deal since it also came with a flight of sake !",
+        "aspect": "BBE $ 29 fixe prix menu",
+        "polarity": "positive"
+    },
+    {
+        "index": 104,
+        "sentence": "My party had the BBE $ 29 fixe prix menu , which was such a wonderful deal since it also came with a flight of sake !",
+        "aspect": "BBE $ 29 fixe prix menu",
+        "polarity": "positive"
+    },
+    {
+        "index": 105,
+        "sentence": "The food is reliable and the price is moderate .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 106,
+        "sentence": "The food is reliable and the price is moderate .",
+        "aspect": "NULL",
+        "polarity": "neutral"
+    },
+    {
+        "index": 107,
+        "sentence": "My roommate and I LOVE this place .",
+        "aspect": "place",
+        "polarity": "positive"
+    },
+    {
+        "index": 108,
+        "sentence": "If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you 'll love it here .",
+        "aspect": "bottle",
+        "polarity": "negative"
+    },
+    {
+        "index": 109,
+        "sentence": "If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you 'll love it here .",
+        "aspect": "music",
+        "polarity": "negative"
+    },
+    {
+        "index": 110,
+        "sentence": "The best pad thai i 've ever had .",
+        "aspect": "pad thai",
+        "polarity": "positive"
+    },
+    {
+        "index": 111,
+        "sentence": "I wish I COULD be refunded !",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 112,
+        "sentence": "Although we were told 10-15 minutes and it was more like 45 minutes .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 113,
+        "sentence": "Each time we 've been , the front of house staff ( not the waiters - they 're fantastic - but the people who greet and seat you ) has been so hideous to us that were it not for the exceptional fish dishes I would never return .",
+        "aspect": "waiters",
+        "polarity": "positive"
+    },
+    {
+        "index": 114,
+        "sentence": "Each time we 've been , the front of house staff ( not the waiters - they 're fantastic - but the people who greet and seat you ) has been so hideous to us that were it not for the exceptional fish dishes I would never return .",
+        "aspect": "front of house staff",
+        "polarity": "negative"
+    },
+    {
+        "index": 115,
+        "sentence": "Each time we 've been , the front of house staff ( not the waiters - they 're fantastic - but the people who greet and seat you ) has been so hideous to us that were it not for the exceptional fish dishes I would never return .",
+        "aspect": "fish dishes",
+        "polarity": "positive"
+    },
+    {
+        "index": 116,
+        "sentence": "Possibly the Most Romantic Restaurant in the City",
+        "aspect": "Restaurant",
+        "polarity": "positive"
+    },
+    {
+        "index": 117,
+        "sentence": "I would go back .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 118,
+        "sentence": "Although we were looking for regular lettuce and some walnuts the salads we got were great .",
+        "aspect": "salads",
+        "polarity": "positive"
+    },
+    {
+        "index": 119,
+        "sentence": "Service is not exactly five star , but thats not really a big deal .",
+        "aspect": "Service",
+        "polarity": "neutral"
+    },
+    {
+        "index": 120,
+        "sentence": "The food is great and the environment is even better .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 121,
+        "sentence": "The food is great and the environment is even better .",
+        "aspect": "environment",
+        "polarity": "positive"
+    },
+    {
+        "index": 122,
+        "sentence": "Everything I had was good , and I 'm a eater .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 123,
+        "sentence": "The buffet had a nice selection .",
+        "aspect": "buffet",
+        "polarity": "positive"
+    },
+    {
+        "index": 124,
+        "sentence": "I honestly do n't even know where to begin .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 125,
+        "sentence": "Delivery is fast too .",
+        "aspect": "Delivery",
+        "polarity": "positive"
+    },
+    {
+        "index": 126,
+        "sentence": "Best , Sushi , Ever .",
+        "aspect": "Sushi",
+        "polarity": "positive"
+    },
+    {
+        "index": 127,
+        "sentence": "Good spreads , great beverage selections and bagels really tasty .",
+        "aspect": "spreads",
+        "polarity": "positive"
+    },
+    {
+        "index": 128,
+        "sentence": "Good spreads , great beverage selections and bagels really tasty .",
+        "aspect": "beverage selections",
+        "polarity": "positive"
+    },
+    {
+        "index": 129,
+        "sentence": "Good spreads , great beverage selections and bagels really tasty .",
+        "aspect": "bagels",
+        "polarity": "positive"
+    },
+    {
+        "index": 130,
+        "sentence": "Everyone was more then happy with his choices .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 131,
+        "sentence": "One of my favorite places in Brooklyn .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 132,
+        "sentence": "The concept of japanese tapas is newly created and clearly does n't work .",
+        "aspect": "japanese tapas",
+        "polarity": "negative"
+    },
+    {
+        "index": 133,
+        "sentence": "Very good wine choices .",
+        "aspect": "wine choices",
+        "polarity": "positive"
+    },
+    {
+        "index": 134,
+        "sentence": "I highly recommend the Sophia pizza .",
+        "aspect": "Sophia pizza",
+        "polarity": "positive"
+    },
+    {
+        "index": 135,
+        "sentence": "The service is excellent , the decor is great , and the food is delicious and comes in large portions .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 136,
+        "sentence": "The service is excellent , the decor is great , and the food is delicious and comes in large portions .",
+        "aspect": "decor",
+        "polarity": "positive"
+    },
+    {
+        "index": 137,
+        "sentence": "The service is excellent , the decor is great , and the food is delicious and comes in large portions .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 138,
+        "sentence": "The service is excellent , the decor is great , and the food is delicious and comes in large portions .",
+        "aspect": "portions",
+        "polarity": "positive"
+    },
+    {
+        "index": 139,
+        "sentence": "I go twice a month !",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 140,
+        "sentence": "also it 's great to have dinner in a very romantic and comfortable place , the service it 's just perfect , they 're so frendly that we never want to live the place !",
+        "aspect": "place",
+        "polarity": "positive"
+    },
+    {
+        "index": 141,
+        "sentence": "also it 's great to have dinner in a very romantic and comfortable place , the service it 's just perfect , they 're so frendly that we never want to live the place !",
+        "aspect": "place",
+        "polarity": "positive"
+    },
+    {
+        "index": 142,
+        "sentence": "also it 's great to have dinner in a very romantic and comfortable place , the service it 's just perfect , they 're so frendly that we never want to live the place !",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 143,
+        "sentence": "And $ 11 for a plate of bland guacamole ?",
+        "aspect": "guacamole",
+        "polarity": "negative"
+    },
+    {
+        "index": 144,
+        "sentence": "And $ 11 for a plate of bland guacamole ?",
+        "aspect": "guacamole",
+        "polarity": "negative"
+    },
+    {
+        "index": 145,
+        "sentence": "Ingredients are organic which is a real plus for me .",
+        "aspect": "Ingredients",
+        "polarity": "positive"
+    },
+    {
+        "index": 146,
+        "sentence": "Ingredients are organic which is a real plus for me .",
+        "aspect": "Ingredients",
+        "polarity": "positive"
+    },
+    {
+        "index": 147,
+        "sentence": "The food is yummy , especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 148,
+        "sentence": "The food is yummy , especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries .",
+        "aspect": "mussels in spicy tomato sauce",
+        "polarity": "positive"
+    },
+    {
+        "index": 149,
+        "sentence": "The food is yummy , especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries .",
+        "aspect": "mussels in spicy tomato sauce",
+        "polarity": "positive"
+    },
+    {
+        "index": 150,
+        "sentence": "The food is yummy , especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries .",
+        "aspect": "fries",
+        "polarity": "positive"
+    },
+    {
+        "index": 151,
+        "sentence": "The food is yummy , especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries .",
+        "aspect": "fries",
+        "polarity": "positive"
+    },
+    {
+        "index": 152,
+        "sentence": "Maitre-D- `` Eat and get out ``",
+        "aspect": "Maitre-D",
+        "polarity": "negative"
+    },
+    {
+        "index": 153,
+        "sentence": "Lexicographers take note : a new and fascinating definition of rudeness is alive and flourishing right here in Brooklyn .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 154,
+        "sentence": "And evaluated on those terms Pastis is simply wonderful .",
+        "aspect": "Pastis",
+        "polarity": "positive"
+    },
+    {
+        "index": 155,
+        "sentence": "awesome",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 156,
+        "sentence": "fresh restaurant was amazing , food was delicious and of course fresh .",
+        "aspect": "fresh restaurant",
+        "polarity": "positive"
+    },
+    {
+        "index": 157,
+        "sentence": "fresh restaurant was amazing , food was delicious and of course fresh .",
+        "aspect": "fresh restaurant",
+        "polarity": "positive"
+    },
+    {
+        "index": 158,
+        "sentence": "fresh restaurant was amazing , food was delicious and of course fresh .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 159,
+        "sentence": "fresh restaurant was amazing , food was delicious and of course fresh .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 160,
+        "sentence": "Delicious , creative and fun .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 161,
+        "sentence": "Delicious , creative and fun .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 162,
+        "sentence": "Delicious , creative and fun .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 163,
+        "sentence": "It 's cuz it 's so good you need to taste it ! ! !",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 164,
+        "sentence": "I was speechless by the horrible food .",
+        "aspect": "food",
+        "polarity": "negative"
+    },
+    {
+        "index": 165,
+        "sentence": "It was wonderful .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 166,
+        "sentence": "However , I think this place is a good hang out spot .",
+        "aspect": "place",
+        "polarity": "positive"
+    },
+    {
+        "index": 167,
+        "sentence": "The decor in this place is very diner-ish and the kind of place you expect in the East Village - not romantic , just simple , small and sparse .",
+        "aspect": "decor",
+        "polarity": "neutral"
+    },
+    {
+        "index": 168,
+        "sentence": "Try the Pad Thai , or sample anything on the appetizer menu , they 're all delicious .",
+        "aspect": "Pad Thai",
+        "polarity": "positive"
+    },
+    {
+        "index": 169,
+        "sentence": "Try the Pad Thai , or sample anything on the appetizer menu , they 're all delicious .",
+        "aspect": "Pad Thai",
+        "polarity": "positive"
+    },
+    {
+        "index": 170,
+        "sentence": "Try the Pad Thai , or sample anything on the appetizer menu , they 're all delicious .",
+        "aspect": "appetizer menu",
+        "polarity": "positive"
+    },
+    {
+        "index": 171,
+        "sentence": "Ess-A-Bagel ( either by Sty-town or midtown ) is by far the best bagel in NY .",
+        "aspect": "bagel",
+        "polarity": "positive"
+    },
+    {
+        "index": 172,
+        "sentence": "And even with it 's Pub atmosphere they were great to my kids too !",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 173,
+        "sentence": "JUST AWSOME .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 174,
+        "sentence": "Red Dragon Roll - my favorite thing to eat , of any food group - hands down",
+        "aspect": "Red Dragon Roll",
+        "polarity": "positive"
+    },
+    {
+        "index": 175,
+        "sentence": "The rice to fish ration was also good -- they did n't try to overpack the rice .",
+        "aspect": "rice to fish ration",
+        "polarity": "positive"
+    },
+    {
+        "index": 176,
+        "sentence": "They have authentic Indian at amazin prices .",
+        "aspect": "Indian",
+        "polarity": "positive"
+    },
+    {
+        "index": 177,
+        "sentence": "They have authentic Indian at amazin prices .",
+        "aspect": "Indian",
+        "polarity": "positive"
+    },
+    {
+        "index": 178,
+        "sentence": "My father had the flank steak which was very good , and my mother had the swordfish .",
+        "aspect": "flank steak",
+        "polarity": "positive"
+    },
+    {
+        "index": 179,
+        "sentence": "Fabulous food - if the front of house staff do n't put you off \u2013",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 180,
+        "sentence": "Fabulous food - if the front of house staff do n't put you off \u2013",
+        "aspect": "front of house staff",
+        "polarity": "negative"
+    },
+    {
+        "index": 181,
+        "sentence": "By far , the best pizza in Manhattan .",
+        "aspect": "pizza",
+        "polarity": "positive"
+    },
+    {
+        "index": 182,
+        "sentence": "Overpriced and not tasty",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 183,
+        "sentence": "Overpriced and not tasty",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 184,
+        "sentence": "Pizza is terrific , as is homemade pasta .",
+        "aspect": "Pizza",
+        "polarity": "positive"
+    },
+    {
+        "index": 185,
+        "sentence": "Pizza is terrific , as is homemade pasta .",
+        "aspect": "homemade pasta",
+        "polarity": "positive"
+    },
+    {
+        "index": 186,
+        "sentence": "Raga 's is a romantic , cozy restaurant .",
+        "aspect": "Raga 's",
+        "polarity": "positive"
+    },
+    {
+        "index": 187,
+        "sentence": "Raga 's is a romantic , cozy restaurant .",
+        "aspect": "Raga 's",
+        "polarity": "positive"
+    },
+    {
+        "index": 188,
+        "sentence": "Expensive",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 189,
+        "sentence": "The location is perfect .",
+        "aspect": "location",
+        "polarity": "positive"
+    },
+    {
+        "index": 190,
+        "sentence": "All in all , this midtown gem instantly became one of my favorite sushi restaurants in the city .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 191,
+        "sentence": "This place doesn 't make any sense",
+        "aspect": "place",
+        "polarity": "negative"
+    },
+    {
+        "index": 192,
+        "sentence": "The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .",
+        "aspect": "tables",
+        "polarity": "negative"
+    },
+    {
+        "index": 193,
+        "sentence": "The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .",
+        "aspect": "tables",
+        "polarity": "negative"
+    },
+    {
+        "index": 194,
+        "sentence": "The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .",
+        "aspect": "menu",
+        "polarity": "neutral"
+    },
+    {
+        "index": 195,
+        "sentence": "The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .",
+        "aspect": "wine list",
+        "polarity": "negative"
+    },
+    {
+        "index": 196,
+        "sentence": "The food was pretty tradional but it was hot and good with large portions .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 197,
+        "sentence": "The food was pretty tradional but it was hot and good with large portions .",
+        "aspect": "portions",
+        "polarity": "positive"
+    },
+    {
+        "index": 198,
+        "sentence": "I have reservations about the all you can eat deal , however -- the choices are fairly limited and you can probably order more food than you can eat for less than $ 18 by just going off the menu .",
+        "aspect": "all you can eat deal",
+        "polarity": "negative"
+    },
+    {
+        "index": 199,
+        "sentence": "I have reservations about the all you can eat deal , however -- the choices are fairly limited and you can probably order more food than you can eat for less than $ 18 by just going off the menu .",
+        "aspect": "all you can eat deal",
+        "polarity": "negative"
+    },
+    {
+        "index": 200,
+        "sentence": "A must try !",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 201,
+        "sentence": "I have to say I have never had a disapointing meal here .",
+        "aspect": "meal",
+        "polarity": "positive"
+    },
+    {
+        "index": 202,
+        "sentence": "Be sure not to get anything other than bagels ! . .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 203,
+        "sentence": "the spinach is fresh , definately not frozen ...",
+        "aspect": "spinach",
+        "polarity": "positive"
+    },
+    {
+        "index": 204,
+        "sentence": "I had the Thai style Fried Sea Bass ... which was very good .",
+        "aspect": "Thai style Fried Sea Bass",
+        "polarity": "positive"
+    },
+    {
+        "index": 205,
+        "sentence": "The view is breathtaking the service is top notch , the ambiance is wonderful .",
+        "aspect": "view",
+        "polarity": "positive"
+    },
+    {
+        "index": 206,
+        "sentence": "The view is breathtaking the service is top notch , the ambiance is wonderful .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 207,
+        "sentence": "The view is breathtaking the service is top notch , the ambiance is wonderful .",
+        "aspect": "ambiance",
+        "polarity": "positive"
+    },
+    {
+        "index": 208,
+        "sentence": "The ambience was nice , but service was n't so great .",
+        "aspect": "ambience",
+        "polarity": "positive"
+    },
+    {
+        "index": 209,
+        "sentence": "The ambience was nice , but service was n't so great .",
+        "aspect": "service",
+        "polarity": "negative"
+    },
+    {
+        "index": 210,
+        "sentence": "This place is not worth the prices .",
+        "aspect": "place",
+        "polarity": "negative"
+    },
+    {
+        "index": 211,
+        "sentence": "This place is not worth the prices .",
+        "aspect": "place",
+        "polarity": "negative"
+    },
+    {
+        "index": 212,
+        "sentence": "We ate out in the back patio , which is worth it as it 's cool and the music is hear well there .",
+        "aspect": "back patio",
+        "polarity": "positive"
+    },
+    {
+        "index": 213,
+        "sentence": "We ate out in the back patio , which is worth it as it 's cool and the music is hear well there .",
+        "aspect": "back patio",
+        "polarity": "positive"
+    },
+    {
+        "index": 214,
+        "sentence": "We ate out in the back patio , which is worth it as it 's cool and the music is hear well there .",
+        "aspect": "music",
+        "polarity": "positive"
+    },
+    {
+        "index": 215,
+        "sentence": "I did not try the caviar but I tried their salmon and crab salad ( they are all good )",
+        "aspect": "salmon",
+        "polarity": "positive"
+    },
+    {
+        "index": 216,
+        "sentence": "I did not try the caviar but I tried their salmon and crab salad ( they are all good )",
+        "aspect": "crab salad",
+        "polarity": "positive"
+    },
+    {
+        "index": 217,
+        "sentence": "We were seated outside and the waiter spilled red wine and hot tea on myself and my date .",
+        "aspect": "waiter",
+        "polarity": "negative"
+    },
+    {
+        "index": 218,
+        "sentence": "We asked for beverages and never received them .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 219,
+        "sentence": "Great Indian food and the service is incredible .",
+        "aspect": "Indian food",
+        "polarity": "positive"
+    },
+    {
+        "index": 220,
+        "sentence": "Great Indian food and the service is incredible .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 221,
+        "sentence": "I would defiantly come back here again as one of my top choices .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 222,
+        "sentence": "Okay-i do n't mind the oily part ( cause most are cooked that way ) but it was way too bland .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 223,
+        "sentence": "Okay-i do n't mind the oily part ( cause most are cooked that way ) but it was way too bland .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 224,
+        "sentence": "The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can .",
+        "aspect": "atmosphere",
+        "polarity": "negative"
+    },
+    {
+        "index": 225,
+        "sentence": "The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can .",
+        "aspect": "waiters",
+        "polarity": "positive"
+    },
+    {
+        "index": 226,
+        "sentence": "it 's a perfect place to have a amazing indian food .",
+        "aspect": "indian food",
+        "polarity": "positive"
+    },
+    {
+        "index": 227,
+        "sentence": "The freshest , best variety , and the fastest delivery .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 228,
+        "sentence": "The freshest , best variety , and the fastest delivery .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 229,
+        "sentence": "The freshest , best variety , and the fastest delivery .",
+        "aspect": "delivery",
+        "polarity": "positive"
+    },
+    {
+        "index": 230,
+        "sentence": "I found the food , service and value exceptional everytime I have been there .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 231,
+        "sentence": "I found the food , service and value exceptional everytime I have been there .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 232,
+        "sentence": "I found the food , service and value exceptional everytime I have been there .",
+        "aspect": "value",
+        "polarity": "positive"
+    },
+    {
+        "index": 233,
+        "sentence": "In an area sadly lacking in decent Thai food , this is one of the best spots .",
+        "aspect": "Thai food",
+        "polarity": "positive"
+    },
+    {
+        "index": 234,
+        "sentence": "I got an excellent piece of cheesecake and we had several other nice pastries .",
+        "aspect": "cheesecake",
+        "polarity": "positive"
+    },
+    {
+        "index": 235,
+        "sentence": "I got an excellent piece of cheesecake and we had several other nice pastries .",
+        "aspect": "pastries",
+        "polarity": "positive"
+    },
+    {
+        "index": 236,
+        "sentence": "I would highly recommend this place !",
+        "aspect": "place",
+        "polarity": "positive"
+    },
+    {
+        "index": 237,
+        "sentence": "This is where it really really gets bad : the manager said , there is absolutely nothing we can do , it 's a matter of taste that she did n't like it , and I can not comp it .",
+        "aspect": "manager",
+        "polarity": "negative"
+    },
+    {
+        "index": 238,
+        "sentence": "THe perfect spot .",
+        "aspect": "spot",
+        "polarity": "positive"
+    },
+    {
+        "index": 239,
+        "sentence": "Service ok but unfriendly , filthy bathroom .",
+        "aspect": "Service",
+        "polarity": "negative"
+    },
+    {
+        "index": 240,
+        "sentence": "Service ok but unfriendly , filthy bathroom .",
+        "aspect": "bathroom",
+        "polarity": "negative"
+    },
+    {
+        "index": 241,
+        "sentence": "The staff was accomodating , the food was absolutely delicious and the place is lovely .",
+        "aspect": "staff",
+        "polarity": "positive"
+    },
+    {
+        "index": 242,
+        "sentence": "The staff was accomodating , the food was absolutely delicious and the place is lovely .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 243,
+        "sentence": "The staff was accomodating , the food was absolutely delicious and the place is lovely .",
+        "aspect": "place",
+        "polarity": "positive"
+    },
+    {
+        "index": 244,
+        "sentence": "good music , great food , speedy service affordable prices .",
+        "aspect": "music",
+        "polarity": "positive"
+    },
+    {
+        "index": 245,
+        "sentence": "good music , great food , speedy service affordable prices .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 246,
+        "sentence": "good music , great food , speedy service affordable prices .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 247,
+        "sentence": "good music , great food , speedy service affordable prices .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 248,
+        "sentence": "We were planning to get dessert but the waitress basically through the bill at us before we had a chance to order .",
+        "aspect": "waitress",
+        "polarity": "negative"
+    },
+    {
+        "index": 249,
+        "sentence": "We had a great time at the Jekyll and hyde Pub last night .",
+        "aspect": "Jekyll and hyde Pub",
+        "polarity": "positive"
+    },
+    {
+        "index": 250,
+        "sentence": "The food is authentic Italian - delicious !",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 251,
+        "sentence": "The food is authentic Italian - delicious !",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 252,
+        "sentence": "I thanked my friend who recommended me this restaurant and will certainly recommend it to others .",
+        "aspect": "restaurant",
+        "polarity": "positive"
+    },
+    {
+        "index": 253,
+        "sentence": "Planet Thai is great !",
+        "aspect": "Planet Thai",
+        "polarity": "positive"
+    },
+    {
+        "index": 254,
+        "sentence": "To sum it up : Service varies from good to mediorce , depending on which waiter you get ; generally it is just average Ok .",
+        "aspect": "Service",
+        "polarity": "neutral"
+    },
+    {
+        "index": 255,
+        "sentence": "Restaurant with a view",
+        "aspect": "view",
+        "polarity": "neutral"
+    },
+    {
+        "index": 256,
+        "sentence": "The food was not fresh , the sauces were bland and very oily .",
+        "aspect": "food",
+        "polarity": "negative"
+    },
+    {
+        "index": 257,
+        "sentence": "The food was not fresh , the sauces were bland and very oily .",
+        "aspect": "sauces",
+        "polarity": "negative"
+    },
+    {
+        "index": 258,
+        "sentence": "The food was not fresh , the sauces were bland and very oily .",
+        "aspect": "sauces",
+        "polarity": "negative"
+    },
+    {
+        "index": 259,
+        "sentence": "I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time .",
+        "aspect": "Casa La Femme",
+        "polarity": "negative"
+    },
+    {
+        "index": 260,
+        "sentence": "I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time .",
+        "aspect": "Casa La Femme",
+        "polarity": "negative"
+    },
+    {
+        "index": 261,
+        "sentence": "This is one of my favorite restaurants and it is not to be missed .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 262,
+        "sentence": "Anybody who likes this place must be from a different planet , where greasy , dry and tasteless are complimentary .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 263,
+        "sentence": "Anybody who likes this place must be from a different planet , where greasy , dry and tasteless are complimentary .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 264,
+        "sentence": "Anybody who likes this place must be from a different planet , where greasy , dry and tasteless are complimentary .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 265,
+        "sentence": "Rao 's has the best service and atmosphere in NYC .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 266,
+        "sentence": "Rao 's has the best service and atmosphere in NYC .",
+        "aspect": "atmosphere",
+        "polarity": "positive"
+    },
+    {
+        "index": 267,
+        "sentence": "Quite simply it 's like stepping out of Manhattan and into a haven of tranquility .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 268,
+        "sentence": "The place is a lot of fun .",
+        "aspect": "place",
+        "polarity": "positive"
+    },
+    {
+        "index": 269,
+        "sentence": "With the great variety on the menu , I eat here often and never get bored .",
+        "aspect": "menu",
+        "polarity": "positive"
+    },
+    {
+        "index": 270,
+        "sentence": "The vibe is very relaxed and cozy , service was great and the food was excellent !",
+        "aspect": "vibe",
+        "polarity": "positive"
+    },
+    {
+        "index": 271,
+        "sentence": "The vibe is very relaxed and cozy , service was great and the food was excellent !",
+        "aspect": "vibe",
+        "polarity": "positive"
+    },
+    {
+        "index": 272,
+        "sentence": "The vibe is very relaxed and cozy , service was great and the food was excellent !",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 273,
+        "sentence": "The vibe is very relaxed and cozy , service was great and the food was excellent !",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 274,
+        "sentence": "I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 275,
+        "sentence": "I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan .",
+        "aspect": "feel",
+        "polarity": "positive"
+    },
+    {
+        "index": 276,
+        "sentence": "If you like spicy food get the chicken vindaloo .",
+        "aspect": "chicken vindaloo",
+        "polarity": "positive"
+    },
+    {
+        "index": 277,
+        "sentence": "Decor is nice though service can be spotty .",
+        "aspect": "Decor",
+        "polarity": "positive"
+    },
+    {
+        "index": 278,
+        "sentence": "Decor is nice though service can be spotty .",
+        "aspect": "service",
+        "polarity": "negative"
+    },
+    {
+        "index": 279,
+        "sentence": "The atmosphere is n't the greatest , but I suppose that 's how they keep the prices down .",
+        "aspect": "atmosphere",
+        "polarity": "negative"
+    },
+    {
+        "index": 280,
+        "sentence": "The atmosphere is n't the greatest , but I suppose that 's how they keep the prices down .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 281,
+        "sentence": "I can 't remember the last time I had such gross food in New York .",
+        "aspect": "food",
+        "polarity": "negative"
+    },
+    {
+        "index": 282,
+        "sentence": "We ate at this Thai place following the reviews but very unhappy with the foods .",
+        "aspect": "foods",
+        "polarity": "negative"
+    },
+    {
+        "index": 283,
+        "sentence": "Definitely a neighborhood favorite .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 284,
+        "sentence": "The pesto pizza was excellent , thin-crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .",
+        "aspect": "pesto pizza",
+        "polarity": "positive"
+    },
+    {
+        "index": 285,
+        "sentence": "The pesto pizza was excellent , thin-crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .",
+        "aspect": "spicy Italian cheese",
+        "polarity": "positive"
+    },
+    {
+        "index": 286,
+        "sentence": "Food took some time to prepare , all worth waiting for .",
+        "aspect": "Food",
+        "polarity": "positive"
+    },
+    {
+        "index": 287,
+        "sentence": "Food took some time to prepare , all worth waiting for .",
+        "aspect": "NULL",
+        "polarity": "neutral"
+    },
+    {
+        "index": 288,
+        "sentence": "Regardless , we 'll be back and can 't wait to visit in the summer to take advantage of the patio .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 289,
+        "sentence": "Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",
+        "aspect": "Leon",
+        "polarity": "positive"
+    },
+    {
+        "index": 290,
+        "sentence": "Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",
+        "aspect": "Leon",
+        "polarity": "positive"
+    },
+    {
+        "index": 291,
+        "sentence": "Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",
+        "aspect": "specials",
+        "polarity": "positive"
+    },
+    {
+        "index": 292,
+        "sentence": "Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",
+        "aspect": "atmosphere",
+        "polarity": "positive"
+    },
+    {
+        "index": 293,
+        "sentence": "Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",
+        "aspect": "atmosphere",
+        "polarity": "positive"
+    },
+    {
+        "index": 294,
+        "sentence": "Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .",
+        "aspect": "French bistro fare",
+        "polarity": "positive"
+    },
+    {
+        "index": 295,
+        "sentence": "Best meal in a long time !",
+        "aspect": "meal",
+        "polarity": "positive"
+    },
+    {
+        "index": 296,
+        "sentence": "As always we had a great glass of wine while we waited .",
+        "aspect": "glass of wine",
+        "polarity": "positive"
+    },
+    {
+        "index": 297,
+        "sentence": "Hurley 's is like Cheers where everyone knows your name and they are actually glad you came .",
+        "aspect": "Hurley 's",
+        "polarity": "positive"
+    },
+    {
+        "index": 298,
+        "sentence": "overpriced japanese food with mediocre service",
+        "aspect": "japanese food",
+        "polarity": "negative"
+    },
+    {
+        "index": 299,
+        "sentence": "overpriced japanese food with mediocre service",
+        "aspect": "service",
+        "polarity": "neutral"
+    },
+    {
+        "index": 300,
+        "sentence": "I have been doing all of the above at the Heartland Brewery for over 5 years now and I HAVE NEVER BEEN DISAPPOINTED !",
+        "aspect": "Heartland Brewery",
+        "polarity": "positive"
+    },
+    {
+        "index": 301,
+        "sentence": "We had Pam 's special fried fish and it was amazing .",
+        "aspect": "Pam 's special fried fish",
+        "polarity": "positive"
+    },
+    {
+        "index": 302,
+        "sentence": "The menu is limited but almost all of the dishes are excellent .",
+        "aspect": "menu",
+        "polarity": "negative"
+    },
+    {
+        "index": 303,
+        "sentence": "The menu is limited but almost all of the dishes are excellent .",
+        "aspect": "dishes",
+        "polarity": "positive"
+    },
+    {
+        "index": 304,
+        "sentence": "For each course we waited over 1 /2 hour to 45 minutes and were never offered a drink .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 305,
+        "sentence": "Everything about this restaurant was special .",
+        "aspect": "restaurant",
+        "polarity": "positive"
+    },
+    {
+        "index": 306,
+        "sentence": "We did arrive late for our reservation so I can not complain too much about the wait for a table .",
+        "aspect": "wait",
+        "polarity": "neutral"
+    },
+    {
+        "index": 307,
+        "sentence": "bad staff",
+        "aspect": "staff",
+        "polarity": "negative"
+    },
+    {
+        "index": 308,
+        "sentence": "this little place has a cute interior decor and affordable city prices .",
+        "aspect": "interior decor",
+        "polarity": "positive"
+    },
+    {
+        "index": 309,
+        "sentence": "this little place has a cute interior decor and affordable city prices .",
+        "aspect": "place",
+        "polarity": "positive"
+    },
+    {
+        "index": 310,
+        "sentence": "But $ 500 for a dinner for two that didn 't include Wine ?",
+        "aspect": "dinner for two",
+        "polarity": "negative"
+    },
+    {
+        "index": 311,
+        "sentence": "This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates .",
+        "aspect": "restaurant",
+        "polarity": "positive"
+    },
+    {
+        "index": 312,
+        "sentence": "Try green curry with vegetables .",
+        "aspect": "green curry with vegetables",
+        "polarity": "positive"
+    },
+    {
+        "index": 313,
+        "sentence": "My boyfriend had the New England Chowder it was good but I think the award should go to the Lobster Bisque .",
+        "aspect": "New England Chowder",
+        "polarity": "positive"
+    },
+    {
+        "index": 314,
+        "sentence": "My boyfriend had the New England Chowder it was good but I think the award should go to the Lobster Bisque .",
+        "aspect": "Lobster Bisque",
+        "polarity": "positive"
+    },
+    {
+        "index": 315,
+        "sentence": "Love Pizza 33 ...",
+        "aspect": "Pizza 33",
+        "polarity": "positive"
+    },
+    {
+        "index": 316,
+        "sentence": "What a hassle !",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 317,
+        "sentence": "Poor service and management",
+        "aspect": "service",
+        "polarity": "negative"
+    },
+    {
+        "index": 318,
+        "sentence": "Poor service and management",
+        "aspect": "management",
+        "polarity": "negative"
+    },
+    {
+        "index": 319,
+        "sentence": "And the Tom Kha soup was pathetic .",
+        "aspect": "Tom Kha soup",
+        "polarity": "negative"
+    },
+    {
+        "index": 320,
+        "sentence": "Moderate prices .",
+        "aspect": "NULL",
+        "polarity": "neutral"
+    },
+    {
+        "index": 321,
+        "sentence": "The hostess and the waitress were incredibly rude and did everything they could to rush us out .",
+        "aspect": "hostess",
+        "polarity": "negative"
+    },
+    {
+        "index": 322,
+        "sentence": "The hostess and the waitress were incredibly rude and did everything they could to rush us out .",
+        "aspect": "waitress",
+        "polarity": "negative"
+    },
+    {
+        "index": 323,
+        "sentence": "On a recent Sunday afternoon , a friend and I accidently found this great restaurant on our way to see the pulitzer prize winning play DOUBT .",
+        "aspect": "restaurant",
+        "polarity": "positive"
+    },
+    {
+        "index": 324,
+        "sentence": "There is something about their atmosphere that makes me come back nearly every week .",
+        "aspect": "atmosphere",
+        "polarity": "positive"
+    },
+    {
+        "index": 325,
+        "sentence": "Great Indian food",
+        "aspect": "Indian food",
+        "polarity": "positive"
+    },
+    {
+        "index": 326,
+        "sentence": "THe back garden sitting area is very pleasant , where you can see their personal herb garden .",
+        "aspect": "back garden sitting area",
+        "polarity": "positive"
+    },
+    {
+        "index": 327,
+        "sentence": "The service was terrible , we had to wait for everything and ask several of different people for the same thing before we were allowed to be served .",
+        "aspect": "service",
+        "polarity": "negative"
+    },
+    {
+        "index": 328,
+        "sentence": "Oh , and I never write reviews -- I just was so moved by how bad this place was , I felt it was my duty to spread the word .",
+        "aspect": "place",
+        "polarity": "negative"
+    },
+    {
+        "index": 329,
+        "sentence": "Not a very fancy place but very good Chinese style Indian food .",
+        "aspect": "place",
+        "polarity": "neutral"
+    },
+    {
+        "index": 330,
+        "sentence": "Not a very fancy place but very good Chinese style Indian food .",
+        "aspect": "Chinese style Indian food",
+        "polarity": "positive"
+    },
+    {
+        "index": 331,
+        "sentence": "Wonderful strawberry daiquiries as well !",
+        "aspect": "strawberry daiquiries",
+        "polarity": "positive"
+    },
+    {
+        "index": 332,
+        "sentence": "The food was lousy - too sweet or too salty and the portions tiny .",
+        "aspect": "food",
+        "polarity": "negative"
+    },
+    {
+        "index": 333,
+        "sentence": "The food was lousy - too sweet or too salty and the portions tiny .",
+        "aspect": "food",
+        "polarity": "negative"
+    },
+    {
+        "index": 334,
+        "sentence": "The food was lousy - too sweet or too salty and the portions tiny .",
+        "aspect": "food",
+        "polarity": "negative"
+    },
+    {
+        "index": 335,
+        "sentence": "The food was lousy - too sweet or too salty and the portions tiny .",
+        "aspect": "portions",
+        "polarity": "negative"
+    },
+    {
+        "index": 336,
+        "sentence": "delicious bagels , especially when right out of the oven .",
+        "aspect": "bagels",
+        "polarity": "positive"
+    },
+    {
+        "index": 337,
+        "sentence": "Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 338,
+        "sentence": "Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat .",
+        "aspect": "place",
+        "polarity": "positive"
+    },
+    {
+        "index": 339,
+        "sentence": "I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded .",
+        "aspect": "atmosphere",
+        "polarity": "positive"
+    },
+    {
+        "index": 340,
+        "sentence": "This was my frist time at Cafe St. Bart 's and I must say how delicious the food and the service was .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 341,
+        "sentence": "The service was excellent and the food was delicious .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 342,
+        "sentence": "The service was excellent and the food was delicious .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 343,
+        "sentence": "For those that go once and do n't enjoy it , all I can say is that they just do n't get it .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 344,
+        "sentence": "The bar drinks were Eh , ok to say the least .",
+        "aspect": "bar drinks",
+        "polarity": "negative"
+    },
+    {
+        "index": 345,
+        "sentence": "Considering we were the last patrons there and it was after the closing time , the waitstaff did not rush us at all and made us feel comfortable and relaxed .",
+        "aspect": "waitstaff",
+        "polarity": "positive"
+    },
+    {
+        "index": 346,
+        "sentence": "Considering we were the last patrons there and it was after the closing time , the waitstaff did not rush us at all and made us feel comfortable and relaxed .",
+        "aspect": "waitstaff",
+        "polarity": "positive"
+    },
+    {
+        "index": 347,
+        "sentence": "The food is great .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 348,
+        "sentence": "Great vibe , lots of people .",
+        "aspect": "vibe",
+        "polarity": "positive"
+    },
+    {
+        "index": 349,
+        "sentence": "This is undoubtedly my favorite modern Japanese brasserie ( that don \u2019 t serve sushi ) , and in my opinion , one of the most romantic restaurants in the city !",
+        "aspect": "modern Japanese brasserie",
+        "polarity": "positive"
+    },
+    {
+        "index": 350,
+        "sentence": "This is undoubtedly my favorite modern Japanese brasserie ( that don \u2019 t serve sushi ) , and in my opinion , one of the most romantic restaurants in the city !",
+        "aspect": "modern Japanese brasserie",
+        "polarity": "positive"
+    },
+    {
+        "index": 351,
+        "sentence": "The bread we received was horrible - rock hard and cold - and the `` free `` appetizer of olives was disappointing .",
+        "aspect": "bread",
+        "polarity": "negative"
+    },
+    {
+        "index": 352,
+        "sentence": "The bread we received was horrible - rock hard and cold - and the `` free `` appetizer of olives was disappointing .",
+        "aspect": "appetizer of olives",
+        "polarity": "negative"
+    },
+    {
+        "index": 353,
+        "sentence": "The bread we received was horrible - rock hard and cold - and the `` free `` appetizer of olives was disappointing .",
+        "aspect": "appetizer of olives",
+        "polarity": "neutral"
+    },
+    {
+        "index": 354,
+        "sentence": "While it is understandable that every place is indeed different , there was not a need to be uncourteous to customers and downright rude .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 355,
+        "sentence": "The nakgi-bokum was horrible .",
+        "aspect": "nakgi-bokum",
+        "polarity": "negative"
+    },
+    {
+        "index": 356,
+        "sentence": "I ate here a week ago and found most dishes average at best and too expensive .",
+        "aspect": "dishes",
+        "polarity": "negative"
+    },
+    {
+        "index": 357,
+        "sentence": "I ate here a week ago and found most dishes average at best and too expensive .",
+        "aspect": "dishes",
+        "polarity": "negative"
+    },
+    {
+        "index": 358,
+        "sentence": "They honored reservation on Sunday afternoon very well .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 359,
+        "sentence": "The hostess was very pleasant .",
+        "aspect": "hostess",
+        "polarity": "positive"
+    },
+    {
+        "index": 360,
+        "sentence": "Skip this restaurant , it 's a big disappointment .",
+        "aspect": "restaurant",
+        "polarity": "negative"
+    },
+    {
+        "index": 361,
+        "sentence": "Skip this restaurant , it 's a big disappointment .",
+        "aspect": "restaurant",
+        "polarity": "negative"
+    },
+    {
+        "index": 362,
+        "sentence": "Service was very good - prompt , attentive and non-intrusive .",
+        "aspect": "Service",
+        "polarity": "positive"
+    },
+    {
+        "index": 363,
+        "sentence": "Service was very good - prompt , attentive and non-intrusive .",
+        "aspect": "Service",
+        "polarity": "positive"
+    },
+    {
+        "index": 364,
+        "sentence": "Service was very good - prompt , attentive and non-intrusive .",
+        "aspect": "Service",
+        "polarity": "positive"
+    },
+    {
+        "index": 365,
+        "sentence": "Service was very good - prompt , attentive and non-intrusive .",
+        "aspect": "Service",
+        "polarity": "positive"
+    },
+    {
+        "index": 366,
+        "sentence": "I was there on sat , for my birthday and we had an excellent time .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 367,
+        "sentence": "La Rosa waltzes in , and I think they are doing it the best .",
+        "aspect": "La Rosa",
+        "polarity": "positive"
+    },
+    {
+        "index": 368,
+        "sentence": "Toons has recently been redone , so it 's now a very attractive space .",
+        "aspect": "Toons",
+        "polarity": "positive"
+    },
+    {
+        "index": 369,
+        "sentence": "Sushi experience was unbelievable with my fiance .",
+        "aspect": "Sushi",
+        "polarity": "positive"
+    },
+    {
+        "index": 370,
+        "sentence": "I don \u2019 t usually visit the same establishment more than once , what more twice , but I \u2019 ll come to Zenkichi anytime for a quiet , unhurried and memorable dinner .",
+        "aspect": "Zenkichi",
+        "polarity": "positive"
+    },
+    {
+        "index": 371,
+        "sentence": "I don \u2019 t usually visit the same establishment more than once , what more twice , but I \u2019 ll come to Zenkichi anytime for a quiet , unhurried and memorable dinner .",
+        "aspect": "Zenkichi",
+        "polarity": "positive"
+    },
+    {
+        "index": 372,
+        "sentence": "I don \u2019 t usually visit the same establishment more than once , what more twice , but I \u2019 ll come to Zenkichi anytime for a quiet , unhurried and memorable dinner .",
+        "aspect": "Zenkichi",
+        "polarity": "positive"
+    },
+    {
+        "index": 373,
+        "sentence": "I don \u2019 t usually visit the same establishment more than once , what more twice , but I \u2019 ll come to Zenkichi anytime for a quiet , unhurried and memorable dinner .",
+        "aspect": "Zenkichi",
+        "polarity": "positive"
+    },
+    {
+        "index": 374,
+        "sentence": "I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service .",
+        "aspect": "caviar",
+        "polarity": "positive"
+    },
+    {
+        "index": 375,
+        "sentence": "I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 376,
+        "sentence": "We left , never to return .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 377,
+        "sentence": "These are overpriced and you can get better just around the corner :",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 378,
+        "sentence": "These are overpriced and you can get better just around the corner :",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 379,
+        "sentence": "Go there once , and oh yes , you will go back , you will .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 380,
+        "sentence": "The Steak Tartare is a great bet , they fix it for you at the table .",
+        "aspect": "Steak Tartare",
+        "polarity": "positive"
+    },
+    {
+        "index": 381,
+        "sentence": "I like Cafe Noir dont get me wrong , it is jsut that the people who work there are evil and incompetent ! !",
+        "aspect": "people",
+        "polarity": "negative"
+    },
+    {
+        "index": 382,
+        "sentence": "I like Cafe Noir dont get me wrong , it is jsut that the people who work there are evil and incompetent ! !",
+        "aspect": "people",
+        "polarity": "negative"
+    },
+    {
+        "index": 383,
+        "sentence": "I like Cafe Noir dont get me wrong , it is jsut that the people who work there are evil and incompetent ! !",
+        "aspect": "Cafe Noir",
+        "polarity": "positive"
+    },
+    {
+        "index": 384,
+        "sentence": "It 's very spicy but not offensive .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 385,
+        "sentence": "First of all Dal Bukhara Rocks .",
+        "aspect": "Dal Bukhara",
+        "polarity": "positive"
+    },
+    {
+        "index": 386,
+        "sentence": "The wine list is excellent .",
+        "aspect": "wine list",
+        "polarity": "positive"
+    },
+    {
+        "index": 387,
+        "sentence": "However , our $ 14 drinks were were horrible !",
+        "aspect": "drinks",
+        "polarity": "negative"
+    },
+    {
+        "index": 388,
+        "sentence": "However , our $ 14 drinks were were horrible !",
+        "aspect": "drinks",
+        "polarity": "negative"
+    },
+    {
+        "index": 389,
+        "sentence": "No desert menu , no apology , nothing ! ! ! ! ! !",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 390,
+        "sentence": "This is some really good , inexpensive sushi .",
+        "aspect": "sushi",
+        "polarity": "positive"
+    },
+    {
+        "index": 391,
+        "sentence": "This is some really good , inexpensive sushi .",
+        "aspect": "sushi",
+        "polarity": "positive"
+    },
+    {
+        "index": 392,
+        "sentence": "I 've been there three times and have always had wonderful experiences .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 393,
+        "sentence": "Took my mom for Mother 's Day , and the maitre d ' was pretty rude .",
+        "aspect": "maitre d '",
+        "polarity": "negative"
+    },
+    {
+        "index": 394,
+        "sentence": "However , go for the ambience , and consider the food just a companion for a trip across the world !",
+        "aspect": "food",
+        "polarity": "neutral"
+    },
+    {
+        "index": 395,
+        "sentence": "Probably would not go back here .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 396,
+        "sentence": "Just want to warn you all - do n't waste your time and money .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 397,
+        "sentence": "The filet mignon dish was superb !",
+        "aspect": "filet mignon dish",
+        "polarity": "positive"
+    },
+    {
+        "index": 398,
+        "sentence": "The only downside , they only take cash which is OK if you know about it ahead of time .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 399,
+        "sentence": "The service is ok , some of the people did n't get what they asked for .",
+        "aspect": "service",
+        "polarity": "neutral"
+    },
+    {
+        "index": 400,
+        "sentence": "I have never before eaten 40 pieces of relatively good nigiri .",
+        "aspect": "nigiri",
+        "polarity": "neutral"
+    },
+    {
+        "index": 401,
+        "sentence": "It is expensive but well worth the money .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 402,
+        "sentence": "It is expensive but well worth the money .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 403,
+        "sentence": "The place 's decor and hidden bathrooms made for a good laugh .",
+        "aspect": "decor",
+        "polarity": "positive"
+    },
+    {
+        "index": 404,
+        "sentence": "The place 's decor and hidden bathrooms made for a good laugh .",
+        "aspect": "hidden bathrooms",
+        "polarity": "positive"
+    },
+    {
+        "index": 405,
+        "sentence": "The lobster sandwich is $ 24 and although it was good it was not nearly enough to warrant that price .",
+        "aspect": "lobster sandwich",
+        "polarity": "positive"
+    },
+    {
+        "index": 406,
+        "sentence": "The lobster sandwich is $ 24 and although it was good it was not nearly enough to warrant that price .",
+        "aspect": "lobster sandwich",
+        "polarity": "negative"
+    },
+    {
+        "index": 407,
+        "sentence": "The food is very good , but not outstanding .",
+        "aspect": "food",
+        "polarity": "neutral"
+    },
+    {
+        "index": 408,
+        "sentence": "Downstairs lounge is always a good attraction",
+        "aspect": "Downstairs lounge",
+        "polarity": "positive"
+    },
+    {
+        "index": 409,
+        "sentence": "The spicy Tuna roll is huge and probably the best that I 've had at this price range .",
+        "aspect": "spicy Tuna roll",
+        "polarity": "positive"
+    },
+    {
+        "index": 410,
+        "sentence": "The spicy Tuna roll is huge and probably the best that I 've had at this price range .",
+        "aspect": "spicy Tuna roll",
+        "polarity": "positive"
+    },
+    {
+        "index": 411,
+        "sentence": "The spicy Tuna roll is huge and probably the best that I 've had at this price range .",
+        "aspect": "spicy Tuna roll",
+        "polarity": "positive"
+    },
+    {
+        "index": 412,
+        "sentence": "The chicken lollipop is my favorite , most of the dishes ( I have to agree with a previous reviewer ) are quite oily and very spicy , espeically the Chilli Chicken .",
+        "aspect": "chicken lollipop",
+        "polarity": "positive"
+    },
+    {
+        "index": 413,
+        "sentence": "The chicken lollipop is my favorite , most of the dishes ( I have to agree with a previous reviewer ) are quite oily and very spicy , espeically the Chilli Chicken .",
+        "aspect": "dishes",
+        "polarity": "negative"
+    },
+    {
+        "index": 414,
+        "sentence": "The chicken lollipop is my favorite , most of the dishes ( I have to agree with a previous reviewer ) are quite oily and very spicy , espeically the Chilli Chicken .",
+        "aspect": "dishes",
+        "polarity": "negative"
+    },
+    {
+        "index": 415,
+        "sentence": "The chicken lollipop is my favorite , most of the dishes ( I have to agree with a previous reviewer ) are quite oily and very spicy , espeically the Chilli Chicken .",
+        "aspect": "Chilli Chicken",
+        "polarity": "negative"
+    },
+    {
+        "index": 416,
+        "sentence": "The chicken lollipop is my favorite , most of the dishes ( I have to agree with a previous reviewer ) are quite oily and very spicy , espeically the Chilli Chicken .",
+        "aspect": "Chilli Chicken",
+        "polarity": "negative"
+    },
+    {
+        "index": 417,
+        "sentence": "Can 't argue about that , but they are clearly over priced .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 418,
+        "sentence": "One special roll and one regular roll is enough to fill you up , but save room for dessert !",
+        "aspect": "dessert",
+        "polarity": "positive"
+    },
+    {
+        "index": 419,
+        "sentence": "One special roll and one regular roll is enough to fill you up , but save room for dessert !",
+        "aspect": "special roll",
+        "polarity": "positive"
+    },
+    {
+        "index": 420,
+        "sentence": "One special roll and one regular roll is enough to fill you up , but save room for dessert !",
+        "aspect": "regular roll",
+        "polarity": "positive"
+    },
+    {
+        "index": 421,
+        "sentence": "We were then shooed inside .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 422,
+        "sentence": "Inexpensive , unassuming , great time !",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 423,
+        "sentence": "Inexpensive , unassuming , great time !",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 424,
+        "sentence": "Inexpensive , unassuming , great time !",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 425,
+        "sentence": "The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .",
+        "aspect": "hanger steak",
+        "polarity": "negative"
+    },
+    {
+        "index": 426,
+        "sentence": "The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .",
+        "aspect": "tuna",
+        "polarity": "negative"
+    },
+    {
+        "index": 427,
+        "sentence": "Excellent spot for holiday get togethers with co-workers or friends that you have n't seen in a while .",
+        "aspect": "spot",
+        "polarity": "positive"
+    },
+    {
+        "index": 428,
+        "sentence": "Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .",
+        "aspect": "salmon",
+        "polarity": "negative"
+    },
+    {
+        "index": 429,
+        "sentence": "Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .",
+        "aspect": "chicken",
+        "polarity": "positive"
+    },
+    {
+        "index": 430,
+        "sentence": "Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .",
+        "aspect": "servings for main entree",
+        "polarity": "negative"
+    },
+    {
+        "index": 431,
+        "sentence": "It was divine melts in your mouth .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 432,
+        "sentence": "My six year old loved it .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 433,
+        "sentence": "Terrible Waste of money , scammers",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 434,
+        "sentence": "Terrible Waste of money , scammers",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 435,
+        "sentence": "Love it .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 436,
+        "sentence": "You will not be disapointed at all .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 437,
+        "sentence": "Food was just average ... if they lowered the prices just a bit , it would be a bigger draw .",
+        "aspect": "Food",
+        "polarity": "neutral"
+    },
+    {
+        "index": 438,
+        "sentence": "Everything was going good until we got our meals .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 439,
+        "sentence": "I 've also been amazed at all the new additions in the past few years : A new Jazz Bar , the most fantastic Dining Garden , the Best Thin Crust Pizzas , and now a Lasagna Menu which is to die for ( these are not your average lasagnas ) !",
+        "aspect": "Dining Garden",
+        "polarity": "positive"
+    },
+    {
+        "index": 440,
+        "sentence": "I 've also been amazed at all the new additions in the past few years : A new Jazz Bar , the most fantastic Dining Garden , the Best Thin Crust Pizzas , and now a Lasagna Menu which is to die for ( these are not your average lasagnas ) !",
+        "aspect": "Jazz Bar",
+        "polarity": "positive"
+    },
+    {
+        "index": 441,
+        "sentence": "I 've also been amazed at all the new additions in the past few years : A new Jazz Bar , the most fantastic Dining Garden , the Best Thin Crust Pizzas , and now a Lasagna Menu which is to die for ( these are not your average lasagnas ) !",
+        "aspect": "Thin Crust Pizzas",
+        "polarity": "positive"
+    },
+    {
+        "index": 442,
+        "sentence": "I 've also been amazed at all the new additions in the past few years : A new Jazz Bar , the most fantastic Dining Garden , the Best Thin Crust Pizzas , and now a Lasagna Menu which is to die for ( these are not your average lasagnas ) !",
+        "aspect": "Lasagna Menu",
+        "polarity": "positive"
+    },
+    {
+        "index": 443,
+        "sentence": "After dinner the manager grabbed my boyfriend , asked him : Where are you from ... maybe you dont know how things work in America ... and in the end stormed away almost teareyed yelling that tips are the only thing they survive on .",
+        "aspect": "manager",
+        "polarity": "negative"
+    },
+    {
+        "index": 444,
+        "sentence": "The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal",
+        "aspect": "meal",
+        "polarity": "positive"
+    },
+    {
+        "index": 445,
+        "sentence": "The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal",
+        "aspect": "meal",
+        "polarity": "positive"
+    },
+    {
+        "index": 446,
+        "sentence": "The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal",
+        "aspect": "restaurant",
+        "polarity": "negative"
+    },
+    {
+        "index": 447,
+        "sentence": "Do n't miss Bloom 's on your next trip to Manhatten .",
+        "aspect": "Bloom 's",
+        "polarity": "positive"
+    },
+    {
+        "index": 448,
+        "sentence": "The food was good .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 449,
+        "sentence": "The atmosphere is unheralded , the service impecible , and the food magnificant .",
+        "aspect": "atmosphere",
+        "polarity": "positive"
+    },
+    {
+        "index": 450,
+        "sentence": "The atmosphere is unheralded , the service impecible , and the food magnificant .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 451,
+        "sentence": "The atmosphere is unheralded , the service impecible , and the food magnificant .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 452,
+        "sentence": "Would NEVER go back there .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 453,
+        "sentence": "Two complaints -- their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .",
+        "aspect": "appetizer selection",
+        "polarity": "negative"
+    },
+    {
+        "index": 454,
+        "sentence": "$ 6 and there is much tasty food , all of it fresh and continually refilled .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 455,
+        "sentence": "$ 6 and there is much tasty food , all of it fresh and continually refilled .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 456,
+        "sentence": "$ 6 and there is much tasty food , all of it fresh and continually refilled .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 457,
+        "sentence": "The exotic food is beautifully presented and is a delight in delicious combinations .",
+        "aspect": "exotic food",
+        "polarity": "positive"
+    },
+    {
+        "index": 458,
+        "sentence": "The exotic food is beautifully presented and is a delight in delicious combinations .",
+        "aspect": "exotic food",
+        "polarity": "positive"
+    },
+    {
+        "index": 459,
+        "sentence": "A gentleman , maybe the manager , came to our table , and without so much as a smile or greeting asked for our order .",
+        "aspect": "gentleman",
+        "polarity": "negative"
+    },
+    {
+        "index": 460,
+        "sentence": "I will be going back very soon .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 461,
+        "sentence": "The food we ordered was excellent , although I would n't say the margaritas were anything to write home about .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 462,
+        "sentence": "The food we ordered was excellent , although I would n't say the margaritas were anything to write home about .",
+        "aspect": "margaritas",
+        "polarity": "neutral"
+    },
+    {
+        "index": 463,
+        "sentence": "What we did do was waste 3 hours being trapped in a table waiting and waiting for food and drinks and hooka that some of which we never received !",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 464,
+        "sentence": "But the pizza is way to expensive .",
+        "aspect": "pizza",
+        "polarity": "negative"
+    },
+    {
+        "index": 465,
+        "sentence": "Just straight up cheap , good food .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 466,
+        "sentence": "Just straight up cheap , good food .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 467,
+        "sentence": "This dish is my favorite and I always get it when I go there and never get tired of it .",
+        "aspect": "dish",
+        "polarity": "positive"
+    },
+    {
+        "index": 468,
+        "sentence": "$ 20 for all you can eat sushi can not be beaten .",
+        "aspect": "all you can eat sushi",
+        "polarity": "positive"
+    },
+    {
+        "index": 469,
+        "sentence": "We even had a visit from the Manager who wanted to make sure we were enjoying ourselves .",
+        "aspect": "Manager",
+        "polarity": "positive"
+    },
+    {
+        "index": 470,
+        "sentence": "I was shocked that my friends wanted to stay after the waitress said , `` can I help you `` and `` how many are in your party ``",
+        "aspect": "waitress",
+        "polarity": "negative"
+    },
+    {
+        "index": 471,
+        "sentence": "The takeout is great too since they give high quality tupperware as well .",
+        "aspect": "takeout",
+        "polarity": "positive"
+    },
+    {
+        "index": 472,
+        "sentence": "You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert .",
+        "aspect": "crabmeat lasagna",
+        "polarity": "positive"
+    },
+    {
+        "index": 473,
+        "sentence": "its just a fun place to go , not a five star restaraunt .",
+        "aspect": "restaraunt",
+        "polarity": "neutral"
+    },
+    {
+        "index": 474,
+        "sentence": "Staff is very accomodating .",
+        "aspect": "Staff",
+        "polarity": "positive"
+    },
+    {
+        "index": 475,
+        "sentence": "He served me an Uni Hand roll , which I never had before , and let me tell you , IT WAS HEAVEN !",
+        "aspect": "Uni Hand roll",
+        "polarity": "positive"
+    },
+    {
+        "index": 476,
+        "sentence": "Guacamole+shrimp appetizer was really great , we both had the filet , very good , did n't much like the frites that came with , but the filet was so good , neither of us cared .",
+        "aspect": "Guacamole+shrimp appetizer",
+        "polarity": "positive"
+    },
+    {
+        "index": 477,
+        "sentence": "Guacamole+shrimp appetizer was really great , we both had the filet , very good , did n't much like the frites that came with , but the filet was so good , neither of us cared .",
+        "aspect": "filet",
+        "polarity": "positive"
+    },
+    {
+        "index": 478,
+        "sentence": "Guacamole+shrimp appetizer was really great , we both had the filet , very good , did n't much like the frites that came with , but the filet was so good , neither of us cared .",
+        "aspect": "frites",
+        "polarity": "negative"
+    },
+    {
+        "index": 479,
+        "sentence": "The food however , is what one might expect .",
+        "aspect": "food",
+        "polarity": "negative"
+    },
+    {
+        "index": 480,
+        "sentence": "We had fun eating in there , we were there like around 3am in the morning !",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 481,
+        "sentence": "Will prob not return but it is a great dinning experience to try atleast once .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 482,
+        "sentence": "Will prob not return but it is a great dinning experience to try atleast once .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 483,
+        "sentence": "Great sushi experience .",
+        "aspect": "sushi",
+        "polarity": "positive"
+    },
+    {
+        "index": 484,
+        "sentence": "Great pizza and fantastic service .",
+        "aspect": "pizza",
+        "polarity": "positive"
+    },
+    {
+        "index": 485,
+        "sentence": "Great pizza and fantastic service .",
+        "aspect": "service",
+        "polarity": "positive"
+    },
+    {
+        "index": 486,
+        "sentence": "On our last visit , they skipped over our name on the list , leaving us waiting an extra hour for a table .",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 487,
+        "sentence": "Have been dozens of times and never failed to enjoy the experience .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 488,
+        "sentence": "I 'm glad I was introduced to this place and this is a rare gem in NY .",
+        "aspect": "place",
+        "polarity": "positive"
+    },
+    {
+        "index": 489,
+        "sentence": "Easily the worst stir-fried squid I 've ever tasted .",
+        "aspect": "stir-fried squid",
+        "polarity": "negative"
+    },
+    {
+        "index": 490,
+        "sentence": "With the theater 2 blocks away we had a delicious meal in a beautiful room .",
+        "aspect": "meal",
+        "polarity": "positive"
+    },
+    {
+        "index": 491,
+        "sentence": "With the theater 2 blocks away we had a delicious meal in a beautiful room .",
+        "aspect": "room",
+        "polarity": "positive"
+    },
+    {
+        "index": 492,
+        "sentence": "With the theater 2 blocks away we had a delicious meal in a beautiful room .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 493,
+        "sentence": "But nonetheless -- great spot , great food .",
+        "aspect": "spot",
+        "polarity": "positive"
+    },
+    {
+        "index": 494,
+        "sentence": "But nonetheless -- great spot , great food .",
+        "aspect": "food",
+        "polarity": "positive"
+    },
+    {
+        "index": 495,
+        "sentence": "Our visit their to say the least , was an unpleasant and costly experience !",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 496,
+        "sentence": "Our visit their to say the least , was an unpleasant and costly experience !",
+        "aspect": "NULL",
+        "polarity": "negative"
+    },
+    {
+        "index": 497,
+        "sentence": "Consistently good Japanese Tapas .",
+        "aspect": "Japanese Tapas",
+        "polarity": "positive"
+    },
+    {
+        "index": 498,
+        "sentence": "The food is prepared quickly and efficiently .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 499,
+        "sentence": "The food is prepared quickly and efficiently .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 500,
+        "sentence": "It is simply amazing .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 501,
+        "sentence": "If you go , try the marinara/arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm , everything is just delicious .",
+        "aspect": "marinara/arrabiatta sauce",
+        "polarity": "positive"
+    },
+    {
+        "index": 502,
+        "sentence": "If you go , try the marinara/arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm , everything is just delicious .",
+        "aspect": "marinara/arrabiatta sauce",
+        "polarity": "positive"
+    },
+    {
+        "index": 503,
+        "sentence": "If you go , try the marinara/arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm , everything is just delicious .",
+        "aspect": "mozzarella en Carozza",
+        "polarity": "positive"
+    },
+    {
+        "index": 504,
+        "sentence": "If you go , try the marinara/arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm , everything is just delicious .",
+        "aspect": "NULL",
+        "polarity": "positive"
+    },
+    {
+        "index": 505,
+        "sentence": "The pizza was pretty good and huge .",
+        "aspect": "pizza",
+        "polarity": "positive"
+    },
+    {
+        "index": 506,
+        "sentence": "The pizza was pretty good and huge .",
+        "aspect": "pizza",
+        "polarity": "positive"
+    }
+]
