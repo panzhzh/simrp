@@ -6,7 +6,7 @@ from sklearn.metrics import f1_score, accuracy_score
 ## Sentence-Transformers Semantic Retrieval
 def get_retrieval(dataset, cover=['test']):
     from sentence_transformers import SentenceTransformer, util
-    model_path = 'Y:/MyPapers/My_BaseCodes/Pretrained_Models/sbert/all-distilroberta-v1'
+    model_path = 'sentence-transformers/all-distilroberta-v1'
     sbert = SentenceTransformer(model_path)
 
     trainset_sent = [f"sentence: '{s['sentence']}', aspect: '{s['aspect']}'" for s in dataset.datas['train']]

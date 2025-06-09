@@ -26,7 +26,7 @@ def run(args):
         )
     
     ## 1. import model and dataset
-    if args.model['name']=='simrp': from models.SimRP import import_model
+    if args.model['name']=='simrp': from SimRP import import_model
     model, dataset = import_model(args)
 
     ## 2. train or eval the model

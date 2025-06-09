@@ -57,7 +57,7 @@ def get_retrieval(dataset, sbert=None, dim=None):
     import torch
     from sentence_transformers import SentenceTransformer, util
     if sbert is None:
-        model_path = 'Y:/CodeFrame/Pretrained_Models/sbert/all-distilroberta-v1'
+        model_path = 'sentence-transformers/all-distilroberta-v1'
         sbert = SentenceTransformer(model_path)
 
     trainset = dataset.datas['train']

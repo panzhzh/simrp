@@ -78,7 +78,7 @@ class ASQPDataset_Gen(ASQPDataModule):
 
     def get_retrieval(self, args, sbert=None):
         if sbert is None: 
-            self.sbert = SentenceTransformer(f"{args.file['plm_dir']}/sbert/all-roberta-large-v1") # 'all-distilroberta-v1'  
+            self.sbert = SentenceTransformer('sentence-transformers/all-roberta-large-v1') 
         else: self.sbert = sbert
 
         # 0. encodding
@@ -124,7 +124,10 @@ class ASQPDataset_Gen(ASQPDataModule):
 
 def import_model(args, task='absa'):
     ## 0. model backbone
-    args.model['plm'] = args.file['plm_dir'] + f"{args.model['arch']}-{args.model['scale']}"
+    if args.model['arch'] == 't5' and args.model['scale'] == 'base':
+        args.model['plm'] = 't5-base'
+    else:
+        args.model['plm'] = f"{args.model['arch']}-{args.model['scale']}"
 
     ## 1. load dataset
     args.model['data'] = f"{args.file['cache_dir']}{args.model['name']}_dataset.pt"
